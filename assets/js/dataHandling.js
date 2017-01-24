@@ -8,13 +8,11 @@ var dataHandling = (function (window, document, undefined) {
   const characterSelect = document.getElementById('characters');
   const movesCount = document.querySelector('.count');
 
-  // function init() {
-  //   // dataFetch(characters[0]);
-  // }
-
+  // Fetches character's frame data and uses it to create array frameData
   function dataFetch(character) {
     frameData = [];
-    fetch(`/assets/data/${character}.json`)
+    const regChar = character.toLowerCase().replace(' ', '_');
+    fetch(`assets/data/${regChar}.json`)
       .then(blob => blob.json())
       .then(data => frameData.push(...data))
       .then(displayData);
@@ -81,10 +79,7 @@ var dataHandling = (function (window, document, undefined) {
   characterSelect.addEventListener('change', changeCharacter);
 
   return {
-    // init: init,
     dataFetch: dataFetch
   };
 
 })(window, document);
-
-// dataHandling.init();

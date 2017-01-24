@@ -10,7 +10,7 @@ var characterLoad = (function (window, document, undefined) {
   }
 
   function dataFetch() {
-    fetch(`/assets/data/_characters.json`)
+    fetch(`assets/data/characters.json`)
       .then(blob => blob.json())
       .then(data => characters.push(...data))
       .then(appendList)
