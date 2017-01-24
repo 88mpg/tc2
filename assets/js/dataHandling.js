@@ -11,13 +11,12 @@ var dataHandling = (function (window, document, undefined) {
   // Fetches character's frame data and uses it to create array frameData
   function dataFetch(character) {
     frameData = [];
-    fetch(`/assets/data/${character}.json`)
+    fetch(`assets/data/${character}.json`)
       .then(blob => blob.json())
       .then(data => frameData.push(...data))
       .then(displayData);
   }
 
-  // When
   function changeCharacter() {
     dataFetch(this.value);
   }
