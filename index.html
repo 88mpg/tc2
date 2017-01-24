@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>JSON testing</title>
+
+  <link rel="stylesheet" href="assets/css/styles.css">
+
+</head>
+<body>
+
+  <p class="count"></p>
+
+  <form class="search-form">
+    <select id="characters"></select>
+    <input type="text" class="search" placeholder="Search Moves">
+  </form>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th>Command</th>
+      <th>Orientation</th>
+      <th>Damage</th>
+      <th>Frames</th>
+      <th>On Block</th>
+      <th>On Hit</th>
+      <th>On CH</th>
+    </tr>
+  </thead>
+  <tbody class="results"></tbody>
+</table>
+
+<script src="assets/js/dataHandling.js" charset="utf-8"></script>
+<script src="assets/js/characterLoad.js" charset="utf-8"></script>
+
+</body>
+</html>
