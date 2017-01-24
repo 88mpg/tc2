@@ -11,7 +11,9 @@ var dataHandling = (function (window, document, undefined) {
   // Fetches character's frame data and uses it to create array frameData
   function dataFetch(character) {
     frameData = [];
-    fetch(`assets/data/${character}.json`)
+    const regChar = character.toLowerCase();
+    console.log(regChar);
+    fetch(`assets/data/${regChar}.json`)
       .then(blob => blob.json())
       .then(data => frameData.push(...data))
       .then(displayData);
