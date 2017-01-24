@@ -8,10 +8,7 @@ var dataHandling = (function (window, document, undefined) {
   const characterSelect = document.getElementById('characters');
   const movesCount = document.querySelector('.count');
 
-  // function init() {
-  //   // dataFetch(characters[0]);
-  // }
-
+  // Fetches character's frame data and uses it to create array frameData
   function dataFetch(character) {
     frameData = [];
     fetch(`/assets/data/${character}.json`)
@@ -20,6 +17,7 @@ var dataHandling = (function (window, document, undefined) {
       .then(displayData);
   }
 
+  // When
   function changeCharacter() {
     dataFetch(this.value);
   }
@@ -81,10 +79,7 @@ var dataHandling = (function (window, document, undefined) {
   characterSelect.addEventListener('change', changeCharacter);
 
   return {
-    // init: init,
     dataFetch: dataFetch
   };
 
 })(window, document);
-
-// dataHandling.init();
