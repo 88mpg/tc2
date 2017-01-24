@@ -12,7 +12,6 @@ var dataHandling = (function (window, document, undefined) {
   function dataFetch(character) {
     frameData = [];
     const regChar = character.toLowerCase();
-    console.log(regChar);
     fetch(`assets/data/${regChar}.json`)
       .then(blob => blob.json())
       .then(data => frameData.push(...data))
