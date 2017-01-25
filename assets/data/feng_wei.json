@@ -34,7 +34,7 @@
     "block": "-13",
     "hit": "+1",
     "ch": "+1",
-    "Notes": "10 frame jab punishers"
+    "notes": "10 frame jab punishers"
   },
   {
     "command": "1, 2, 2, b",
@@ -53,7 +53,7 @@
     "block": "-6",
     "hit": "+5",
     "ch": "JG",
-    "Notes": "10 frame jab punishers"
+    "notes": "10 frame jab punishers"
   },
   {
     "command": "2",
@@ -135,7 +135,7 @@
     "block": "-4~-2 OC",
     "hit": "+4~+6 OC",
     "ch": "+4~+6 OC",
-    "Notes": "b! bound"
+    "notes": "b! bound"
   },
   {
     "command": "2~1, 1",
@@ -253,7 +253,7 @@
     "block": "-16~-15",
     "hit": "JG",
     "ch": "JG",
-    "Notes": "21 frame launchers whiff punishers"
+    "notes": "21 frame launchers whiff punishers"
   },
   {
     "command": "f+4",
@@ -281,7 +281,7 @@
     "block": "-10~-8",
     "hit": "KND",
     "ch": "KND",
-    "Notes": "b! bound"
+    "notes": "b! bound"
   },
   {
     "command": "f+4, 4",
@@ -345,7 +345,7 @@
     "block": "-7",
     "hit": "JG",
     "ch": "JG",
-    "Notes": "launchers"
+    "notes": "launchers"
   },
   {
     "command": "d/f+4",
@@ -364,7 +364,7 @@
     "block": "-8~-7",
     "hit": "KND",
     "ch": "KND",
-    "Notes": "homing"
+    "notes": "homing"
   },
   {
     "command": "d+2",
@@ -500,7 +500,7 @@
     "block": "-8~-7",
     "hit": "KND",
     "ch": "KND",
-    "Notes": "b! bound"
+    "notes": "b! bound"
   },
   {
     "command": "d/b+2, 2, B (Cancel)",
@@ -528,7 +528,7 @@
     "block": "-21",
     "hit": "KND",
     "ch": "KND",
-    "Notes": "homing"
+    "notes": "homing"
   },
   {
     "command": "d/b+1+2",
@@ -538,7 +538,7 @@
     "block": "0~+1",
     "hit": "+8~+9",
     "ch": "+8~+9",
-    "Notes": "b! bound"
+    "notes": "b! bound"
   },
   {
     "command": "d/b+1+2, 2",
@@ -629,7 +629,7 @@
     "block": "-9",
     "hit": "+2",
     "ch": "+2",
-    "Notes": "12 frame punishers homing"
+    "notes": "12 frame punishers homing"
   },
   {
     "command": "b+1+2",
@@ -639,7 +639,7 @@
     "block": "-25~-24",
     "hit": "KND",
     "ch": "KND",
-    "Notes": "13 frame shoulder whiff punishers"
+    "notes": "13 frame shoulder whiff punishers"
   },
   {
     "command": "u/b+2",
@@ -676,7 +676,7 @@
     "block": "0~+2",
     "hit": "KND",
     "ch": "KND",
-    "Notes": "b! bound"
+    "notes": "b! bound"
   },
   {
     "command": "u/b or u or u/f+1",
@@ -731,7 +731,7 @@
     "block": "-13~-12",
     "hit": "JG",
     "ch": "JG",
-    "Notes": "15 frame hopkick launch punishers"
+    "notes": "15 frame hopkick launch punishers"
   },
   {
     "command": "u/f+3+4",
@@ -795,7 +795,7 @@
     "block": "-15",
     "hit": "JG",
     "ch": "JG",
-    "Notes": "19 frame launchers punishers"
+    "notes": "19 frame launchers punishers"
   },
   {
     "command": "f, F+4, 3",
@@ -805,7 +805,7 @@
     "block": "-12",
     "hit": "JG",
     "ch": "JG",
-    "Notes": "launchers"
+    "notes": "launchers"
   },
   {
     "command": "f, F+1+2",
@@ -860,7 +860,7 @@
     "block": "-10",
     "hit": "+1",
     "ch": "+1",
-    "Notes": "14 frame while standing punishers"
+    "notes": "14 frame while standing punishers"
   },
   {
     "command": "WS+1, 2, 1",
@@ -879,7 +879,7 @@
     "block": "-9",
     "hit": "KND",
     "ch": "JG",
-    "Notes": "launchers"
+    "notes": "launchers"
   },
   {
     "command": "WS+3",
@@ -889,7 +889,7 @@
     "block": "-12~-11",
     "hit": "JG",
     "ch": "JG",
-    "Notes": "15 frame while standing launchers punishers"
+    "notes": "15 frame while standing launchers punishers"
   },
   {
     "command": "WS+4",
@@ -899,7 +899,7 @@
     "block": "-7~-6",
     "hit": "+4~+5",
     "ch": "+4~+5",
-    "Notes": "11 frame while standing punishers"
+    "notes": "11 frame while standing punishers"
   },
   {
     "command": "WS+1+2",
@@ -963,7 +963,7 @@
     "block": "-31",
     "hit": "JG",
     "ch": "JG",
-    "Notes": "launchers"
+    "notes": "launchers"
   },
   {
     "command": "SS+4 (Far)",
@@ -1225,7 +1225,7 @@
     "block": "-12~-11",
     "hit": "JG",
     "ch": "JG",
-    "Notes": "launchers"
+    "notes": "launchers"
   },
   {
     "command": "qcf+4",
@@ -1244,7 +1244,7 @@
     "block": "+4 OC",
     "hit": "+9 OC",
     "ch": "KND",
-    "Notes": "b! bound"
+    "notes": "b! bound"
   },
   {
     "command": "qcf+3+4",
@@ -1299,7 +1299,7 @@
     "block": "-13 OC",
     "hit": "KND",
     "ch": "KND",
-    "Notes": "b! bound"
+    "notes": "b! bound"
   },
   {
     "command": "BT 3",

@@ -7,7 +7,7 @@
     "block": "-2",
     "hit": "+9",
     "ch": "+9",
-    "Notes": "10f jab punishers"
+    "notes": "10f jab punishers"
   },
   {
     "command": "1, 1",
@@ -125,7 +125,7 @@
     "block": "-3",
     "hit": "+8",
     "ch": "+8",
-    "Notes": "12f punishers"
+    "notes": "12f punishers"
   },
   {
     "command": "2, 1, 1+2",
@@ -162,7 +162,7 @@
     "block": "-19",
     "hit": "KND",
     "ch": "KND",
-    "Notes": "12f punishers"
+    "notes": "12f punishers"
   },
   {
     "command": "3",

@@ -16,7 +16,7 @@
     "block": "-8",
     "hit": "+3",
     "ch": "KND",
-    "Notes": "10 frame jab punishers"
+    "notes": "10 frame jab punishers"
   },
   {
     "command": "1, 1, 1+2",
@@ -116,7 +116,7 @@
     "block": "-5",
     "hit": "KND",
     "ch": "KND",
-    "Notes": "13 frame punishers"
+    "notes": "13 frame punishers"
   },
   {
     "command": "1+2",
@@ -135,7 +135,7 @@
     "block": "-4",
     "hit": "+7",
     "ch": "+7",
-    "Notes": "tracks right"
+    "notes": "tracks right"
   },
   {
     "command": "f+2, 1+2",
@@ -190,7 +190,7 @@
     "block": "-2",
     "hit": "+10",
     "ch": "+10",
-    "Notes": "14 frame punishers"
+    "notes": "14 frame punishers"
   },
   {
     "command": "f+3, 2, 1",
@@ -227,7 +227,7 @@
     "block": "-14~+? (-12)",
     "hit": "KND",
     "ch": "KND",
-    "Notes": "homing"
+    "notes": "homing"
   },
   {
     "command": "f+1+2",
@@ -237,7 +237,7 @@
     "block": "-12~-10",
     "hit": "+7~+9",
     "ch": "+7~+9",
-    "Notes": "14 frame punishers"
+    "notes": "14 frame punishers"
   },
   {
     "command": "d\/f+1",
@@ -247,7 +247,7 @@
     "block": "-6~-5",
     "hit": "+5~+6",
     "ch": "+8~+9",
-    "Notes": "tracks right"
+    "notes": "tracks right"
   },
   {
     "command": "d\/f+1, 1",
@@ -284,7 +284,7 @@
     "block": "-9~-8",
     "hit": "JG(+7)",
     "ch": "JG",
-    "Notes": "16 frame launch punishers"
+    "notes": "16 frame launch punishers"
   },
   {
     "command": "d\/f+3",
@@ -294,7 +294,7 @@
     "block": "-12",
     "hit": "-2",
     "ch": "-2",
-    "Notes": "tracks left"
+    "notes": "tracks left"
   },
   {
     "command": "d\/f+3, 3",
@@ -313,7 +313,7 @@
     "block": "-7",
     "hit": "+4",
     "ch": "+4",
-    "Notes": "12 frame punishers"
+    "notes": "12 frame punishers"
   },
   {
     "command": "d+2",
@@ -395,7 +395,7 @@
     "block": "-18",
     "hit": "JG",
     "ch": "JG",
-    "Notes": "homing"
+    "notes": "homing"
   },
   {
     "command": "d+3+4, 1+2",
@@ -441,7 +441,7 @@
     "block": "-13",
     "hit": "-2",
     "ch": "+5",
-    "Notes": "tracks left"
+    "notes": "tracks left"
   },
   {
     "command": "d\/b+4",
@@ -460,7 +460,7 @@
     "block": "-5~-4",
     "hit": "+8~+9",
     "ch": "+8~+9",
-    "Notes": "tracks both"
+    "notes": "tracks both"
   },
   {
     "command": "b+1, 1+2",
@@ -506,7 +506,7 @@
     "block": "-8~-7",
     "hit": "KND",
     "ch": "KND",
-    "Notes": "homing"
+    "notes": "homing"
   },
   {
     "command": "b+4",
@@ -543,7 +543,7 @@
     "block": "-17~-16",
     "hit": "KND",
     "ch": "KND",
-    "Notes": "19 frame launch punishers"
+    "notes": "19 frame launch punishers"
   },
   {
     "command": "b+3+4, 3+4",
@@ -643,7 +643,7 @@
     "block": "-12~-11 OC",
     "hit": "KND",
     "ch": "KND",
-    "Notes": "15 frame while standing launch punishers"
+    "notes": "15 frame while standing launch punishers"
   },
   {
     "command": "u or u\/f+3+4",
@@ -743,7 +743,7 @@
     "block": "-16",
     "hit": "CS",
     "ch": "CS",
-    "Notes": "17 frame punishers"
+    "notes": "17 frame punishers"
   },
   {
     "command": "f, F+1+2 When hit 2",
@@ -771,7 +771,7 @@
     "block": "-8~0",
     "hit": "KND",
     "ch": "KND",
-    "Notes": "16 frame launch punishers"
+    "notes": "16 frame launch punishers"
   },
   {
     "command": "f, f, f+2 or WR+2",
@@ -826,7 +826,7 @@
     "block": "-5",
     "hit": "+6",
     "ch": "+6",
-    "Notes": "14 frame while standing punishers"
+    "notes": "14 frame while standing punishers"
   },
   {
     "command": "WS+1, 2, 3",
@@ -854,7 +854,7 @@
     "block": "-13~-12",
     "hit": "KND",
     "ch": "KND",
-    "Notes": "17 frame launch punishers"
+    "notes": "17 frame launch punishers"
   },
   {
     "command": "WS+2, 3+4",
@@ -936,7 +936,7 @@
     "block": "-8",
     "hit": "KND",
     "ch": "KND",
-    "Notes": "homing"
+    "notes": "homing"
   },
   {
     "command": "WS+1+2, * (two spins)",
@@ -1288,7 +1288,7 @@
     "block": "0",
     "hit": "KND",
     "ch": "KND",
-    "Notes": "homing"
+    "notes": "homing"
   },
   {
     "command": "DES f+1",

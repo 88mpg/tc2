@@ -34,7 +34,7 @@
     "block": "0 OC",
     "hit": "+4 OC",
     "ch": "+4 OC",
-    "Notes": "bound!"
+    "notes": "bound!"
   },
   {
     "command": "1, 2, 3+4",
@@ -71,7 +71,7 @@
     "block": "-9",
     "hit": "7",
     "ch": "7",
-    "Notes": "10frame jab punisher"
+    "notes": "10frame jab punisher"
   },
   {
     "command": "2",
@@ -90,7 +90,7 @@
     "block": "3",
     "hit": "5",
     "ch": "5",
-    "Notes": "10frame jab punisher"
+    "notes": "10frame jab punisher"
   },
   {
     "command": "2, d+1+2",
@@ -136,7 +136,7 @@
     "block": "-13~-12 OC",
     "hit": "+2~+3? OC",
     "ch": "+2~+3? OC",
-    "Notes": "bound!"
+    "notes": "bound!"
   },
   {
     "command": "f+2, d+1, 2",
@@ -164,7 +164,7 @@
     "block": "-9",
     "hit": "+6 OC",
     "ch": "+6 OC",
-    "Notes": "bound!"
+    "notes": "bound!"
   },
   {
     "command": "f+4",
@@ -183,7 +183,7 @@
     "block": "-12",
     "hit": "+4,5?",
     "ch": "+4,5?",
-    "Notes": "15 frame punisher"
+    "notes": "15 frame punisher"
   },
   {
     "command": "f+1+2, 2",
@@ -229,7 +229,7 @@
     "block": "-12~-11",
     "hit": "JG",
     "ch": "JG",
-    "Notes": "16 frame launcher punisher"
+    "notes": "16 frame launcher punisher"
   },
   {
     "command": "d/f+2",
@@ -266,7 +266,7 @@
     "block": "2",
     "hit": "5",
     "ch": "5",
-    "Notes": "17 frame launcher punisher"
+    "notes": "17 frame launcher punisher"
   },
   {
     "command": "d/f+3, 1, 2",
@@ -294,7 +294,7 @@
     "block": "0 OC",
     "hit": "+4 OC",
     "ch": "+4 OC",
-    "Notes": "bound!"
+    "notes": "bound!"
   },
   {
     "command": "d/f+3, 1, 2, 3+4",
@@ -340,7 +340,7 @@
     "block": "0 OC",
     "hit": "+4 OC",
     "ch": "+4 OC",
-    "Notes": "bound!"
+    "notes": "bound!"
   },
   {
     "command": "d/f+3, d/f+1",
@@ -377,7 +377,7 @@
     "block": "-16?",
     "hit": "+4 OC",
     "ch": "KND",
-    "Notes": "13 frame while standing punisher bound!"
+    "notes": "13 frame while standing punisher bound!"
   },
   {
     "command": "d/f+1+2",
@@ -531,7 +531,7 @@
     "block": "-9",
     "hit": "+2?",
     "ch": "CS",
-    "Notes": "homing tracks"
+    "notes": "homing tracks"
   },
   {
     "command": "b+3",
@@ -550,7 +550,7 @@
     "block": "-9",
     "hit": "2",
     "ch": "KND",
-    "Notes": "14 frame punisher"
+    "notes": "14 frame punisher"
   },
   {
     "command": "b+1+2",
@@ -623,7 +623,7 @@
     "block": "-6",
     "hit": "CS",
     "ch": "CS",
-    "Notes": "17 frame launcher punisher"
+    "notes": "17 frame launcher punisher"
   },
   {
     "command": "u/b or u or u/f+3+4",
@@ -642,7 +642,7 @@
     "block": "-1",
     "hit": "KND",
     "ch": "KND",
-    "Notes": "11 or 12 frame punisher"
+    "notes": "11 or 12 frame punisher"
   },
   {
     "command": "f, F+4",
@@ -652,7 +652,7 @@
     "block": "-10~-9",
     "hit": "KND",
     "ch": "KND",
-    "Notes": "homing tracks"
+    "notes": "homing tracks"
   },
   {
     "command": "b, B+1+2",
@@ -716,7 +716,7 @@
     "block": "-7?",
     "hit": "3",
     "ch": "3",
-    "Notes": "11 frame while standing punisher"
+    "notes": "11 frame while standing punisher"
   },
   {
     "command": "WS+1, 3+4",
@@ -762,7 +762,7 @@
     "block": "-7",
     "hit": "KND",
     "ch": "CS",
-    "Notes": "13 frame launcher punisher"
+    "notes": "13 frame launcher punisher"
   },
   {
     "command": "WS+1+2",
@@ -772,7 +772,7 @@
     "block": "-4~-3",
     "hit": "+7~+8",
     "ch": "+7~+8",
-    "Notes": "10 frame while standing punisher"
+    "notes": "10 frame while standing punisher"
   },
   {
     "command": "FC+1+2",
@@ -836,7 +836,7 @@
     "block": "1",
     "hit": "KND",
     "ch": "KND",
-    "Notes": "bound!"
+    "notes": "bound!"
   },
   {
     "command": "Face down Grounded 2",
@@ -963,7 +963,7 @@
     "block": "-12,13? OC",
     "hit": "+4 OC",
     "ch": "KND",
-    "Notes": "bound!"
+    "notes": "bound!"
   },
   {
     "command": "VTS f+2",
