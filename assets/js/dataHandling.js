@@ -30,6 +30,10 @@ var dataHandling = (function (window, document, undefined) {
     movesCount.textContent = `${countMoves()} moves`;
   }
 
+  function emptySearch() {
+    searchInput.value = '';
+  }
+
   function displayData() {
     const html = frameData.map(move => {
       return `
@@ -59,9 +63,11 @@ var dataHandling = (function (window, document, undefined) {
 
     const matchArray = findMatches(this.value, frameData);
     const html = matchArray.map(move => {
+      const regex = new RegExp(this.value, 'gi');
+      const searchHighlight = move.command.replace(regex, `<span class="highlight">${this.value}</span>`);
       return `
         <tr>
-          <td class="command">${move.command}</td>
+          <td class="command">${searchHighlight}</td>
           <td class="orientation">${move.orientation}</td>
           <td class="damage">${move.damage}</td>
           <td class="frames">${move.frames}</td>
@@ -78,6 +84,7 @@ var dataHandling = (function (window, document, undefined) {
   searchInput.addEventListener('change', displayMatches);
   searchInput.addEventListener('keyup', displayMatches);
   characterSelect.addEventListener('change', changeCharacter);
+  characterSelect.addEventListener('change', emptySearch);
 
   return {
     dataFetch: dataFetch

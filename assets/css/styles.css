@@ -1,3 +1,7 @@
+:root {
+  --highlight: gold;
+}
+
 body {
   margin: 0;
   padding: 20px;
@@ -9,6 +13,10 @@ body {
 
 form {
   display: flex;
+}
+
+.highlight {
+  background: var(--highlight);
 }
 
 .count { min-height: 16px; }
