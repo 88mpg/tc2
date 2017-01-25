@@ -1,0 +1,1035 @@
+[
+  {
+    "Command": "1",
+    "Orientation": "h",
+    "Damage": "9",
+    "Startup": "10",
+    "On Block": "+1",
+    "On Hit": "+8",
+    "CH": "+8"
+  },
+  {
+    "Command": "1, 2",
+    "Damage": "9,16",
+    "Startup": "10",
+    "On Block": "-1?",
+    "On Hit": "+3",
+    "CH": "+7"
+  },
+  {
+    "Command": "1, 2, 3",
+    "Damage": "9,16,27",
+    "Startup": "10",
+    "On Block": "+2~+3",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "1, 2, 4",
+    "Damage": "9,16,40",
+    "Startup": "10",
+    "On Block": "-4",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "1, 3",
+    "Damage": "9,13",
+    "Startup": "10",
+    "On Block": "-6",
+    "On Hit": "+4",
+    "CH": "+4"
+  },
+  {
+    "Command": "1, 3, 2",
+    "Damage": "9,13,13",
+    "Startup": "10",
+    "On Block": "-1",
+    "On Hit": "+4",
+    "CH": "+4"
+  },
+  {
+    "Command": "1, 3, 2, 1",
+    "Damage": "9,13,13,13",
+    "Startup": "10",
+    "On Block": "-4",
+    "On Hit": "+1",
+    "CH": "+1"
+  },
+  {
+    "Command": "1, 3, 2, 1, 4",
+    "Damage": "9,13,13,13,13",
+    "Startup": "10",
+    "On Block": "-13",
+    "On Hit": "+8",
+    "CH": "+8"
+  },
+  {
+    "Command": "1, 3, B",
+    "Damage": "9,13",
+    "Startup": "10",
+    "On Block": "-6",
+    "On Hit": "+4",
+    "CH": "+4"
+  },
+  {
+    "Command": "1, 3~3",
+    "Damage": "9,27",
+    "Startup": "10",
+    "On Block": "+1~+4?",
+    "On Hit": "+5~+8 OC",
+    "CH": "+5~+8 OC"
+  },
+  {
+    "Command": "1, 3~3, d/f+3",
+    "Damage": "9,27,17",
+    "Startup": "10",
+    "On Block": "-14",
+    "On Hit": "+1",
+    "CH": "CS(10)"
+  },
+  {
+    "Command": "1, d+3",
+    "Damage": "9,9",
+    "Startup": "10",
+    "On Block": "-12",
+    "On Hit": "-1",
+    "CH": "-1"
+  },
+  {
+    "Command": "1, d+3, 4",
+    "Damage": "9,9,22",
+    "Startup": "10",
+    "On Block": "-13",
+    "On Hit": "+4",
+    "CH": "JG"
+  },
+  {
+    "Command": "2",
+    "Damage": "12",
+    "Startup": "10",
+    "On Block": "0",
+    "On Hit": "+9",
+    "CH": "+9"
+  },
+  {
+    "Command": "2, 1",
+    "Damage": "12,12",
+    "Startup": "10",
+    "On Block": "-3",
+    "On Hit": "+6",
+    "CH": "+6?"
+  },
+  {
+    "Command": "2, 1, 4",
+    "Damage": "12,12,24",
+    "Startup": "10",
+    "On Block": "-9~-8?",
+    "On Hit": "0~+1?",
+    "CH": "0~+1?"
+  },
+  {
+    "Command": "2, 1, 4~4",
+    "Damage": "12,12,24",
+    "Startup": "10",
+    "On Block": "-31?",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "2, 4",
+    "Damage": "12,27",
+    "Startup": "10",
+    "On Block": "-9?",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "3",
+    "Damage": "25",
+    "Startup": "14",
+    "On Block": "-7",
+    "On Hit": "+4",
+    "CH": "+4"
+  },
+  {
+    "Command": "3, 1",
+    "Damage": "25,9",
+    "Startup": "14",
+    "On Block": "-1",
+    "On Hit": "+7",
+    "CH": "+7"
+  },
+  {
+    "Command": "3, 1, 4",
+    "Damage": "25,9,24",
+    "Startup": "14",
+    "On Block": "-12",
+    "On Hit": "+4",
+    "CH": "JG"
+  },
+  {
+    "Command": "4",
+    "Damage": "24",
+    "Startup": "13",
+    "On Block": "-9?",
+    "On Hit": "+1",
+    "CH": "CS"
+  },
+  {
+    "Command": "4~3 or WS+4~3",
+    "Damage": "32",
+    "Startup": "24~31 RG (25~)",
+    "On Block": "-11~-4",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "1+2",
+    "Damage": "6,6,27",
+    "Startup": "12,20,32",
+    "On Block": "-14",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "f+2",
+    "Damage": "16",
+    "Startup": "16",
+    "On Block": "-9",
+    "On Hit": "0",
+    "CH": "0"
+  },
+  {
+    "Command": "f+3",
+    "Damage": "21",
+    "Startup": "12",
+    "On Block": "-8",
+    "On Hit": "+3",
+    "CH": "+3"
+  },
+  {
+    "Command": "f+3~3",
+    "Damage": "27",
+    "Startup": "24~27",
+    "On Block": "+5~+8?",
+    "On Hit": "+5~+8 OC",
+    "CH": "+5~+8 OC"
+  },
+  {
+    "Command": "f+3~3, d/f+3",
+    "Damage": "27,17",
+    "Startup": "24~27",
+    "On Block": "-14",
+    "On Hit": "+2",
+    "CH": "CS(10)"
+  },
+  {
+    "Command": "f+4",
+    "Damage": "28",
+    "Startup": "16",
+    "On Block": "-8",
+    "On Hit": "+4?",
+    "CH": "KND"
+  },
+  {
+    "Command": "f+4, F",
+    "Damage": "28",
+    "Startup": "16",
+    "On Block": "-5?",
+    "On Hit": "+7?",
+    "CH": "KND"
+  },
+  {
+    "Command": "f+4, F, d/f, b (Cancel)",
+    "Damage": "28",
+    "Startup": "16",
+    "On Block": "-9?",
+    "On Hit": "+3?",
+    "CH": "KND"
+  },
+  {
+    "Command": "f+1+2",
+    "Damage": "16,29",
+    "Startup": "14,23",
+    "On Block": "-9",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "d/f+1",
+    "Damage": "13",
+    "Startup": "13",
+    "On Block": "-3",
+    "On Hit": "+4",
+    "CH": "+6?"
+  },
+  {
+    "Command": "d/f+1, 4",
+    "Damage": "13,27",
+    "Startup": "13",
+    "On Block": "-9",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "d/f+1, 4~4",
+    "Damage": "13,32",
+    "Startup": "13",
+    "On Block": "-11",
+    "On Hit": "CS",
+    "CH": "CS"
+  },
+  {
+    "Command": "d/f+2",
+    "Damage": "20",
+    "Startup": "15~16",
+    "On Block": "-7~-6",
+    "On Hit": "+4~+5",
+    "CH": "JG"
+  },
+  {
+    "Command": "d/f+3",
+    "Damage": "16",
+    "Startup": "14",
+    "On Block": "-16",
+    "On Hit": "-5",
+    "CH": "-5?"
+  },
+  {
+    "Command": "d/f+3, 3",
+    "Damage": "16,18",
+    "Startup": "14",
+    "On Block": "-8",
+    "On Hit": "+8",
+    "CH": "+8"
+  },
+  {
+    "Command": "d/f+3, 3, f",
+    "Damage": "16,18",
+    "Startup": "14",
+    "On Block": "-8",
+    "On Hit": "+8",
+    "CH": "+8"
+  },
+  {
+    "Command": "d/f+3, 3, b",
+    "Damage": "16,18",
+    "Startup": "14",
+    "On Block": "-8",
+    "On Hit": "+8",
+    "CH": "+8"
+  },
+  {
+    "Command": "d/f+4",
+    "Damage": "29",
+    "Startup": "20~21",
+    "On Block": "-7~-6",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "d/f+1+2",
+    "Damage": "27",
+    "Startup": "23",
+    "On Block": "-12",
+    "On Hit": "+6(KND)",
+    "CH": "+6(KND)"
+  },
+  {
+    "Command": "d+1",
+    "Damage": "32",
+    "Startup": "21",
+    "On Block": "-7",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "d+3",
+    "Damage": "9",
+    "Startup": "15",
+    "On Block": "-13",
+    "On Hit": "-2",
+    "CH": "-2"
+  },
+  {
+    "Command": "d+3, 3",
+    "Damage": "9,13",
+    "Startup": "15",
+    "On Block": "-15",
+    "On Hit": "0",
+    "CH": "0"
+  },
+  {
+    "Command": "d+4",
+    "Damage": "20",
+    "Startup": "16",
+    "On Block": "-14",
+    "On Hit": "-3",
+    "CH": "-3"
+  },
+  {
+    "Command": "d+3+4",
+    "Damage": "6,27",
+    "Startup": "15,25~26",
+    "On Block": "-19~-18",
+    "On Hit": "JG",
+    "CH": "JG"
+  },
+  {
+    "Command": "d/b+2",
+    "Damage": "16",
+    "Startup": "16",
+    "On Block": "-10",
+    "On Hit": "-4",
+    "CH": "FS(-1) 16"
+  },
+  {
+    "Command": "d/b+2, 2",
+    "Damage": "16,14",
+    "Startup": "16",
+    "On Block": "-12",
+    "On Hit": "-7(CS)",
+    "CH": "-7"
+  },
+  {
+    "Command": "d/b+2, 2, 3",
+    "Damage": "16,14,28",
+    "Startup": "16",
+    "On Block": "-9",
+    "On Hit": "CS",
+    "CH": "CS"
+  },
+  {
+    "Command": "d/b+2, 3",
+    "Damage": "16,24",
+    "Startup": "16",
+    "On Block": "-12",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "d/b+3",
+    "Damage": "37",
+    "Startup": "19~20",
+    "On Block": "-13~-12?",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "d/b+4",
+    "Damage": "25",
+    "Startup": "20",
+    "On Block": "-13",
+    "On Hit": "+3",
+    "CH": "JG"
+  },
+  {
+    "Command": "b+2",
+    "Damage": "16",
+    "Startup": "15",
+    "On Block": "-11",
+    "On Hit": "0",
+    "CH": "0"
+  },
+  {
+    "Command": "b+2, 1",
+    "Damage": "16,13",
+    "Startup": "15",
+    "On Block": "-9",
+    "On Hit": "+2",
+    "CH": "+2"
+  },
+  {
+    "Command": "b+3",
+    "Damage": "22",
+    "Startup": "16",
+    "On Block": "-7?",
+    "On Hit": "+4?",
+    "CH": "CS"
+  },
+  {
+    "Command": "b+3, f",
+    "Damage": "22",
+    "Startup": "16",
+    "On Block": "-",
+    "On Hit": "+",
+    "CH": "CS"
+  },
+  {
+    "Command": "b+4",
+    "Damage": "28",
+    "Startup": "17",
+    "On Block": "-7",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "b, f+2",
+    "Damage": "20",
+    "Startup": "15(15~)",
+    "On Block": "-7",
+    "On Hit": "+4",
+    "CH": "FS(+11 GB?) 23?"
+  },
+  {
+    "Command": "b, f+2, 1",
+    "Damage": "20,13",
+    "Startup": "15(15~)",
+    "On Block": "-5",
+    "On Hit": "+6",
+    "CH": "+6"
+  },
+  {
+    "Command": "b, f+2, 1, 2",
+    "Damage": "20,13,27",
+    "Startup": "15(15~)",
+    "On Block": "-6",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "b, f+2, 3",
+    "Damage": "20,22",
+    "Startup": "15(15~)",
+    "On Block": "-12",
+    "On Hit": "+6",
+    "CH": "CS"
+  },
+  {
+    "Command": "b, f+2, 3, f",
+    "Damage": "20,22",
+    "Startup": "15(15~)",
+    "On Block": "-",
+    "On Hit": "+",
+    "CH": "CS"
+  },
+  {
+    "Command": "Opponent Down d+2",
+    "Damage": "24",
+    "Startup": "19",
+    "On Block": "-13?",
+    "On Hit": "-",
+    "CH": "-"
+  },
+  {
+    "Command": "1+3+4",
+    "Damage": "",
+    "Startup": "19",
+    "On Block": "",
+    "On Hit": "",
+    "CH": ""
+  },
+  {
+    "Command": "u/b+5 (with Devil Jin)",
+    "Damage": "0",
+    "Startup": "19",
+    "On Block": "-15~",
+    "On Hit": "-15~",
+    "CH": "-15~"
+  },
+  {
+    "Command": "u/b+1+2",
+    "Damage": "94",
+    "Startup": "75",
+    "On Block": "KND",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "u/f+2",
+    "Damage": "24",
+    "Startup": "15",
+    "On Block": "-7",
+    "On Hit": "+6",
+    "CH": "+6"
+  },
+  {
+    "Command": "u/b+3",
+    "Damage": "17",
+    "Startup": "22",
+    "On Block": "-11",
+    "On Hit": "+4",
+    "CH": "CS (12)"
+  },
+  {
+    "Command": "u or u/f+3",
+    "Damage": "22",
+    "Startup": "22",
+    "On Block": "-9",
+    "On Hit": "+6",
+    "CH": "CS (14)"
+  },
+  {
+    "Command": "u+4",
+    "Damage": "20",
+    "Startup": "15~16",
+    "On Block": "-13~-12?",
+    "On Hit": "KND",
+    "CH": "JG"
+  },
+  {
+    "Command": "u/f+4",
+    "Damage": "22",
+    "Startup": "15~16",
+    "On Block": "-13~-12",
+    "On Hit": "CS",
+    "CH": "JG"
+  },
+  {
+    "Command": "WS+1",
+    "Damage": "13",
+    "Startup": "13~14",
+    "On Block": "-6~-5",
+    "On Hit": "+5~+6",
+    "CH": "+5~+6"
+  },
+  {
+    "Command": "WS+1, 2",
+    "Damage": "13,21",
+    "Startup": "13~14",
+    "On Block": "-8~-7",
+    "On Hit": "+3~+4 OC",
+    "CH": "+3~+4 OC"
+  },
+  {
+    "Command": "WS+1, 2, f",
+    "Damage": "13,21",
+    "Startup": "13~14",
+    "On Block": "-",
+    "On Hit": "+ OC",
+    "CH": "+ OC"
+  },
+  {
+    "Command": "WS+2",
+    "Damage": "18",
+    "Startup": "14",
+    "On Block": "-12",
+    "On Hit": "JG",
+    "CH": "JG"
+  },
+  {
+    "Command": "WS+3",
+    "Damage": "27",
+    "Startup": "16",
+    "On Block": "-9",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "f, F+2",
+    "Damage": "32",
+    "Startup": "14(15~)",
+    "On Block": "-11",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "f, F+3",
+    "Damage": "27",
+    "Startup": "22~24 (23~)",
+    "On Block": "+2~+4",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "f, F+3, 1",
+    "Damage": "27,6",
+    "Startup": "22~24 (23~)",
+    "On Block": "+1",
+    "On Hit": "+7",
+    "CH": "+7"
+  },
+  {
+    "Command": "f, F+3, 1, 3",
+    "Damage": "27,6,13",
+    "Startup": "22~24 (23~)",
+    "On Block": "-6",
+    "On Hit": "+4",
+    "CH": "+4"
+  },
+  {
+    "Command": "f, F+3, 1, 3, 2",
+    "Damage": "27,6,13,13",
+    "Startup": "22~24 (23~)",
+    "On Block": "-1",
+    "On Hit": "+4",
+    "CH": "+4"
+  },
+  {
+    "Command": "f, F+3, 1, 3 , 2, 1",
+    "Damage": "27,6,13,13,13",
+    "Startup": "22~24 (23~)",
+    "On Block": "-4",
+    "On Hit": "+1",
+    "CH": "+1"
+  },
+  {
+    "Command": "f, F+3, 1, 3 , 2, 1, 4",
+    "Damage": "27,6,13,13,13,13",
+    "Startup": "22~24 (23~)",
+    "On Block": "-13",
+    "On Hit": "+8",
+    "CH": "+8"
+  },
+  {
+    "Command": "f, F+4",
+    "Damage": "25",
+    "Startup": "20~24 (21~)",
+    "On Block": "+3~+7 OC",
+    "On Hit": "+7~+11 OC",
+    "CH": "+7~+11 OC"
+  },
+  {
+    "Command": "d+1+2 (to ZEN)",
+    "Damage": "",
+    "Startup": "19",
+    "On Block": "",
+    "On Hit": "",
+    "CH": ""
+  },
+  {
+    "Command": "b+1 (to CDS)",
+    "Damage": "",
+    "Startup": "19",
+    "On Block": "",
+    "On Hit": "",
+    "CH": ""
+  },
+  {
+    "Command": "CDS F",
+    "Damage": "",
+    "Startup": "19",
+    "On Block": "",
+    "On Hit": "",
+    "CH": ""
+  },
+  {
+    "Command": "ZEN or CDS D/F",
+    "Damage": "",
+    "Startup": "RC",
+    "On Block": "",
+    "On Hit": "",
+    "CH": ""
+  },
+  {
+    "Command": "ZEN or CDS 1",
+    "Damage": "18",
+    "Startup": "16(21~)",
+    "On Block": "-3",
+    "On Hit": "+8",
+    "CH": "+8?"
+  },
+  {
+    "Command": "ZEN or CDS 1, 2",
+    "Damage": "18,28",
+    "Startup": "16(21~)",
+    "On Block": "-14",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "ZEN or CDS 2",
+    "Damage": "36",
+    "Startup": "22(27~)",
+    "On Block": "-14",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "ZEN or CDS 3",
+    "Damage": "33",
+    "Startup": "22~27 (27~)",
+    "On Block": "+8~+13 GB?",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "ZEN or CDS 4",
+    "Damage": "27",
+    "Startup": "23 RC(28~)",
+    "On Block": "-19?",
+    "On Hit": "JG",
+    "CH": "JG"
+  },
+  {
+    "Command": "ZEN or CDS 1+2",
+    "Damage": "10,27",
+    "Startup": "13,(18~)",
+    "On Block": "-17?",
+    "On Hit": "JG",
+    "CH": "JG"
+  },
+  {
+    "Command": "f, n, d, d/f",
+    "Damage": "",
+    "Startup": "13,(18~)",
+    "On Block": "",
+    "On Hit": "",
+    "CH": ""
+  },
+  {
+    "Command": "f, n, d, d/f, u/f (to jump)",
+    "Damage": "",
+    "Startup": "13,(18~)",
+    "On Block": "",
+    "On Hit": "",
+    "CH": ""
+  },
+  {
+    "Command": "f, n, d, D/F+1",
+    "Damage": "27",
+    "Startup": "16(20~)",
+    "On Block": "-12",
+    "On Hit": "JG",
+    "CH": "JG"
+  },
+  {
+    "Command": "f, n, d, d/f:1",
+    "Damage": "29",
+    "Startup": "16(19~)",
+    "On Block": "-12",
+    "On Hit": "JG",
+    "CH": "JG"
+  },
+  {
+    "Command": "f, n, d, D/F+2",
+    "Damage": "27",
+    "Startup": "12(16~)",
+    "On Block": "-7",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "f, n, d, d/f:2",
+    "Damage": "33",
+    "Startup": "11(14~)",
+    "On Block": "+5",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "f, n, d, d/f+3",
+    "Damage": "24",
+    "Startup": "16(19~)",
+    "On Block": "-9",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "f, n, d, d/f+4",
+    "Damage": "18",
+    "Startup": "20(23~)",
+    "On Block": "-31",
+    "On Hit": "JG",
+    "CH": "JG"
+  },
+  {
+    "Command": "f, n, d, d/f+4, 3+4",
+    "Damage": "18,36",
+    "Startup": "20(23~) RG",
+    "On Block": "-11~-4",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "b+1+2",
+    "Damage": "0",
+    "Startup": "16~35",
+    "On Block": "-13~+6",
+    "On Hit": "-13~+6",
+    "CH": "-13~+6"
+  },
+  {
+    "Command": "B+1+2, 1, 4 (to OMEN) (teamed with Mishima or Devil Jin)",
+    "Damage": "",
+    "Startup": "16~35",
+    "On Block": "",
+    "On Hit": "",
+    "CH": ""
+  },
+  {
+    "Command": "OMEN 1",
+    "Damage": "9",
+    "Startup": "10",
+    "On Block": "+1",
+    "On Hit": "+8",
+    "CH": "+8"
+  },
+  {
+    "Command": "OMEN 1, 1",
+    "Damage": "9,8",
+    "Startup": "10",
+    "On Block": "-1",
+    "On Hit": "+8",
+    "CH": "+8"
+  },
+  {
+    "Command": "OMEN 1, 1, 2",
+    "Damage": "9,8,16",
+    "Startup": "10",
+    "On Block": "-17",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "OMEN 1, 2",
+    "Damage": "9,10",
+    "Startup": "10",
+    "On Block": "0?",
+    "On Hit": "+8?",
+    "CH": "+8?"
+  },
+  {
+    "Command": "OMEN 1, 2, 2",
+    "Damage": "9,10,16",
+    "Startup": "10",
+    "On Block": "-12",
+    "On Hit": "+4?",
+    "CH": "+4?"
+  },
+  {
+    "Command": "OMEN 1, 2, 2, 3",
+    "Damage": "9,10,16,6",
+    "Startup": "10",
+    "On Block": "-1",
+    "On Hit": "+1",
+    "CH": "+1"
+  },
+  {
+    "Command": "OMEN 1, 2, 2, 3, 2",
+    "Damage": "9,10,16,6,4",
+    "Startup": "10",
+    "On Block": "-2",
+    "On Hit": "+8",
+    "CH": "+7"
+  },
+  {
+    "Command": "OMEN 1, 2, 2, 3, 2, 4",
+    "Damage": "9,10,16,6,4,4",
+    "Startup": "10",
+    "On Block": "-7",
+    "On Hit": "-4?",
+    "CH": "-4?"
+  },
+  {
+    "Command": "OMEN 1, 2, 2, 3, 2, 4, 3",
+    "Damage": "9,10,16,6,4,4,27",
+    "Startup": "10",
+    "On Block": "-4",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "OMEN 1, 2, 4",
+    "Damage": "9,10,28",
+    "Startup": "10",
+    "On Block": "-8?",
+    "On Hit": "+4?",
+    "CH": "KND"
+  },
+  {
+    "Command": "OMEN 1, 2, 4, f",
+    "Damage": "9,10,28",
+    "Startup": "10",
+    "On Block": "-5?",
+    "On Hit": "+7?",
+    "CH": "KND"
+  },
+  {
+    "Command": "OMEN 1+2",
+    "Damage": "32",
+    "Startup": "21",
+    "On Block": "-13",
+    "On Hit": "CS",
+    "CH": "CS"
+  },
+  {
+    "Command": "OMEN b, f+2",
+    "Damage": "24",
+    "Startup": "15~16 (15~)",
+    "On Block": "-12",
+    "On Hit": "-1",
+    "CH": "FS(-2)"
+  },
+  {
+    "Command": "OMEN b, f+2, 1",
+    "Damage": "24,18",
+    "Startup": "15~16 (15~)",
+    "On Block": "-14",
+    "On Hit": "+1?",
+    "CH": "+1?"
+  },
+  {
+    "Command": "OMEN b, f+2, 1 (After first On Hit without delay)",
+    "Damage": "28,16",
+    "Startup": "15~16 (15~)",
+    "On Block": "",
+    "On Hit": "FS(-2)",
+    "CH": ""
+  },
+  {
+    "Command": "OMEN b, f+2, 1, 2",
+    "Damage": "24,18,32",
+    "Startup": "15~16 (15~)",
+    "On Block": "-13",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "OMEN b, f+2, 1, d/b or d or d/f+2",
+    "Damage": "24,18,29",
+    "Startup": "15~16 (15~)",
+    "On Block": "-14?",
+    "On Hit": "JG",
+    "CH": "JG"
+  },
+  {
+    "Command": "OMEN f, n, d, d/f+2",
+    "Damage": "31",
+    "Startup": "11(14~)",
+    "On Block": "+5?",
+    "On Hit": "JG",
+    "CH": "JG"
+  },
+  {
+    "Command": "OMEN f, n, d, d/f+1",
+    "Damage": "33",
+    "Startup": "19(22~)",
+    "On Block": "-15",
+    "On Hit": "KND",
+    "CH": "KND"
+  },
+  {
+    "Command": "OMEN f, n, d, D/F+4",
+    "Damage": "20",
+    "Startup": "16(19~)",
+    "On Block": "-16?",
+    "On Hit": "JG",
+    "CH": "JG"
+  },
+  {
+    "Command": "OMEN f, n, d, D/F+4, 4",
+    "Damage": "20,13",
+    "Startup": "16(19~)",
+    "On Block": "-3",
+    "On Hit": "+8",
+    "CH": "+8"
+  },
+  {
+    "Command": "OMEN f, n, d, D/F+4, 4, 4",
+    "Damage": "20,13,27",
+    "Startup": "16(19~)",
+    "On Block": "-16~-15",
+    "On Hit": "-5~-4 OC",
+    "CH": "-5~-4 OC"
+  },
+  {
+    "Command": "OMEN Approach f, F+1+2",
+    "Damage": "37",
+    "Startup": "12",
+    "On Block": "",
+    "On Hit": "KND",
+    "CH": ""
+  }
+]
