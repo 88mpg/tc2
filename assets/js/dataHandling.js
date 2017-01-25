@@ -23,7 +23,7 @@ var dataHandling = (function (window, document, undefined) {
   }
 
   function countMoves() {
-    return frameData.length;
+    return results.childElementCount;
   }
 
   function updateCount() {
@@ -56,6 +56,7 @@ var dataHandling = (function (window, document, undefined) {
   }
 
   function displayMatches() {
+
     const matchArray = findMatches(this.value, frameData);
     const html = matchArray.map(move => {
       return `
