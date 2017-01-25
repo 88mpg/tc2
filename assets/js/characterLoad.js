@@ -14,7 +14,7 @@ var characterLoad = (function (window, document, undefined) {
       .then(blob => blob.json())
       .then(data => characters.push(...data))
       .then(appendList)
-      .then(() => dataHandling.dataFetch(characters[0]));
+      .then(() => dataHandling.dataFetch(characters[0]))
   }
 
   function appendList() {

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" viewBox="0 0 77.2 52.2">
+
+	<symbol id="button0" viewBox="0 0 77.2 52.2">
+		<circle id="one" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="13.5" r="10.8"/>
+		<circle fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="13.5" r="10.8"/>
+		<circle fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="38.6" r="10.8"/>
+		<circle fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="38.6" r="10.8"/>
+		<circle fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="63.9" cy="13.5" r="10.8"/>
+	</symbol>
+
+	<symbol id="button1" viewBox="0 0 77.2 52.2">
+		<circle id="one" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="13.5" r="10.8"/>
+		<circle id="two" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="13.5" r="10.8"/>
+		<circle id="three" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="38.6" r="10.8"/>
+		<circle id="four" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="38.6" r="10.8"/>
+		<circle id="five" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="63.9" cy="13.5" r="10.8"/>
+	</symbol>
+
+	<symbol id="button2" viewBox="0 0 77.2 52.2">
+		<circle id="one" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="13.5" r="10.8"/>
+		<circle id="two" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="13.5" r="10.8"/>
+		<circle id="three" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="38.6" r="10.8"/>
+		<circle id="four" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="38.6" r="10.8"/>
+		<circle id="five" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="63.9" cy="13.5" r="10.8"/>
+	</symbol>
+
+	<symbol id="button3" viewBox="0 0 77.2 52.2">
+		<circle id="one" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="13.5" r="10.8"/>
+		<circle id="two" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="13.5" r="10.8"/>
+		<circle id="three" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="38.6" r="10.8"/>
+		<circle id="four" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="38.6" r="10.8"/>
+		<circle id="five" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="63.9" cy="13.5" r="10.8"/>
+	</symbol>
+
+	<symbol id="button4" viewBox="0 0 77.2 52.2">
+		<circle id="one" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="13.5" r="10.8"/>
+		<circle id="two" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="13.5" r="10.8"/>
+		<circle id="three" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="38.6" r="10.8"/>
+		<circle id="four" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="38.6" r="10.8"/>
+		<circle id="five" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="63.9" cy="13.5" r="10.8"/>
+	</symbol>
+
+	<symbol id="button5" viewBox="0 0 77.2 52.2">
+		<circle id="one" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="13.5" r="10.8"/>
+		<circle id="two" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="13.5" r="10.8"/>
+		<circle id="three" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="38.6" r="10.8"/>
+		<circle id="four" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="38.6" r="10.8"/>
+		<circle id="five" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="63.9" cy="13.5" r="10.8"/>
+	</symbol>
+
+	<symbol id="button12" viewBox="0 0 77.2 52.2">
+		<circle id="one" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="13.5" r="10.8"/>
+		<circle id="two" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="13.5" r="10.8"/>
+		<circle id="three" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="38.6" r="10.8"/>
+		<circle id="four" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="38.6" r="10.8"/>
+		<circle id="five" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="63.9" cy="13.5" r="10.8"/>
+	</symbol>
+
+	<symbol id="button13" viewBox="0 0 77.2 52.2">
+		<circle id="one" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="13.5" r="10.8"/>
+		<circle id="two" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="13.5" r="10.8"/>
+		<circle id="three" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="38.6" r="10.8"/>
+		<circle id="four" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="38.6" r="10.8"/>
+		<circle id="five" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="63.9" cy="13.5" r="10.8"/>
+	</symbol>
+
+	<symbol id="button14" viewBox="0 0 77.2 52.2">
+		<circle id="one" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="13.5" r="10.8"/>
+		<circle id="two" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="13.5" r="10.8"/>
+		<circle id="three" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="38.6" r="10.8"/>
+		<circle id="four" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="38.6" r="10.8"/>
+		<circle id="five" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="63.9" cy="13.5" r="10.8"/>
+	</symbol>
+
+	<symbol id="button23" viewBox="0 0 77.2 52.2">
+		<circle id="one" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="13.5" r="10.8"/>
+		<circle id="two" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="13.5" r="10.8"/>
+		<circle id="three" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="38.6" r="10.8"/>
+		<circle id="four" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="38.6" r="10.8"/>
+		<circle id="five" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="63.9" cy="13.5" r="10.8"/>
+	</symbol>
+
+	<symbol id="button24" viewBox="0 0 77.2 52.2">
+		<circle id="one" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="13.5" r="10.8"/>
+		<circle id="two" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="13.5" r="10.8"/>
+		<circle id="three" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="38.6" r="10.8"/>
+		<circle id="four" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="38.6" r="10.8"/>
+		<circle id="five" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="63.9" cy="13.5" r="10.8"/>
+	</symbol>
+
+	<symbol id="button34" viewBox="0 0 77.2 52.2">
+		<circle id="one" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="13.5" r="10.8"/>
+		<circle id="two" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="13.5" r="10.8"/>
+		<circle id="three" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="38.6" r="10.8"/>
+		<circle id="four" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="38.6" r="10.8"/>
+		<circle id="five" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="63.9" cy="13.5" r="10.8"/>
+	</symbol>
+
+	<symbol id="button45" viewBox="0 0 77.2 52.2">
+		<circle id="one" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="13.5" r="10.8"/>
+		<circle id="two" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="13.5" r="10.8"/>
+		<circle id="three" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="38.6" r="10.8"/>
+		<circle id="four" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="38.6" r="10.8"/>
+		<circle id="five" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="63.9" cy="13.5" r="10.8"/>
+	</symbol>
+
+	<symbol id="button123" viewBox="0 0 77.2 52.2">
+		<circle id="one" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="13.5" r="10.8"/>
+		<circle id="two" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="13.5" r="10.8"/>
+		<circle id="three" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="38.6" r="10.8"/>
+		<circle id="four" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="38.6" r="10.8"/>
+		<circle id="five" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="63.9" cy="13.5" r="10.8"/>
+	</symbol>
+
+	<symbol id="button124" viewBox="0 0 77.2 52.2">
+		<circle id="one" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="13.5" r="10.8"/>
+		<circle id="two" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="13.5" r="10.8"/>
+		<circle id="three" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="38.6" r="10.8"/>
+		<circle id="four" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="38.6" r="10.8"/>
+		<circle id="five" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="63.9" cy="13.5" r="10.8"/>
+	</symbol>
+
+	<symbol id="button134" viewBox="0 0 77.2 52.2">
+		<circle id="one" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="13.5" r="10.8"/>
+		<circle id="two" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="13.5" r="10.8"/>
+		<circle id="three" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="38.6" r="10.8"/>
+		<circle id="four" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="38.6" r="10.8"/>
+		<circle id="five" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="63.9" cy="13.5" r="10.8"/>
+	</symbol>
+
+	<symbol id="button234" viewBox="0 0 77.2 52.2">
+		<circle id="one" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="13.5" r="10.8"/>
+		<circle id="two" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="13.5" r="10.8"/>
+		<circle id="three" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="38.6" r="10.8"/>
+		<circle id="four" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="38.6" r="10.8"/>
+		<circle id="five" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="63.9" cy="13.5" r="10.8"/>
+	</symbol>
+
+	<symbol id="button1234" viewBox="0 0 77.2 52.2">
+		<circle id="one" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="13.5" r="10.8"/>
+		<circle id="two" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="13.5" r="10.8"/>
+		<circle id="three" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="13.7" cy="38.6" r="10.8"/>
+		<circle id="four" fill="#000000" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="38.8" cy="38.6" r="10.8"/>
+		<circle id="five" fill="#FFFFFF" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="63.9" cy="13.5" r="10.8"/>
+	</symbol>
+
+</svg>

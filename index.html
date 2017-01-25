@@ -2,12 +2,31 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>JSON testing</title>
+  <title>Tekken Rooster</title>
 
   <link rel="stylesheet" href="assets/css/styles.css">
 
 </head>
 <body>
+
+  <h1>Tekken Rooster</h1>
+
+  <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="assets/images/sprites.buttons.svg#button1"></use></svg>
+  <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="assets/images/sprites.buttons.svg#button2"></use></svg>
+  <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="assets/images/sprites.buttons.svg#button3"></use></svg>
+  <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="assets/images/sprites.buttons.svg#button4"></use></svg>
+  <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="assets/images/sprites.buttons.svg#button5"></use></svg>
+  <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="assets/images/sprites.buttons.svg#button12"></use></svg>
+  <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="assets/images/sprites.buttons.svg#button13"></use></svg>
+  <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="assets/images/sprites.buttons.svg#button14"></use></svg>
+  <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="assets/images/sprites.buttons.svg#button23"></use></svg>
+  <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="assets/images/sprites.buttons.svg#button24"></use></svg>
+  <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="assets/images/sprites.buttons.svg#button34"></use></svg>
+  <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="assets/images/sprites.buttons.svg#button45"></use></svg>
+  <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="assets/images/sprites.buttons.svg#button123"></use></svg>
+  <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="assets/images/sprites.buttons.svg#button124"></use></svg>
+  <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="assets/images/sprites.buttons.svg#button234"></use></svg>
+  <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="assets/images/sprites.buttons.svg#button1234"></use></svg>
 
   <p class="count"></p>
 
@@ -15,9 +34,14 @@
     <select id="characters"></select>
     <input type="text" class="search" placeholder="Search Moves">
   </form>
+  <label><input type="checkbox" value="tag">Tag</label>
+  <label><input type="checkbox" value="bound">Bound</label>
+  <label><input type="checkbox" value="tracks">Tracks</label>
+  <label><input type="checkbox" value="throw">Throws</label>
+
 
 <table width="100%">
-  <thead>
+  <thead class="legend">
     <tr>
       <th>Command</th>
       <th>Orientation</th>

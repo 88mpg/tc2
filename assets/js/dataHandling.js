@@ -27,7 +27,7 @@ var dataHandling = (function (window, document, undefined) {
   }
 
   function updateCount() {
-    movesCount.textContent = `${countMoves()} moves`;
+    movesCount.textContent = `Showing ${countMoves()} moves`;
   }
 
   function emptySearch() {

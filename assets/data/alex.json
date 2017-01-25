@@ -123,7 +123,10 @@
     "frames": "22",
     "block": "-14",
     "hit": "CS",
-    "ch": "CS"
+    "ch": "CS",
+    "properties": [
+      "tag"
+    ]
   },
   {
     "command": "f+3",
@@ -159,7 +162,11 @@
     "frames": "16~17",
     "block": "-16~-15",
     "hit": "KND",
-    "ch": "KND"
+    "ch": "KND",
+    "properties": [
+      "tag",
+      "bound"
+    ]
   },
   {
     "command": "f+1+2",
@@ -231,7 +238,10 @@
     "frames": "19~21",
     "block": "-8~-6",
     "hit": "+2~+4",
-    "ch": "+2~+4"
+    "ch": "+2~+4",
+    "properties": [
+      "tracks"
+    ]
   },
   {
     "command": "d\/f+3, 3",
@@ -240,7 +250,10 @@
     "frames": "19~21",
     "block": "-6",
     "hit": "KND",
-    "ch": "KND"
+    "ch": "KND",
+    "properties": [
+      "tracks"
+    ]
   },
   {
     "command": "d\/f+4",
@@ -258,7 +271,10 @@
     "frames": "15",
     "block": "-5 OC",
     "hit": "+5 OC",
-    "ch": "+5 OC"
+    "ch": "+5 OC",
+    "properties": [
+      "bound"
+    ]
   },
   {
     "command": "d\/f+3+4",
@@ -267,7 +283,10 @@
     "frames": "28( RG)",
     "block": "Throw",
     "hit": "Throw",
-    "ch": "Throw"
+    "ch": "Throw",
+    "properties": [
+      "tag"
+    ]
   },
   {
     "command": "d\/f+3+4 (Far)",
@@ -780,7 +799,10 @@
     "frames": "14",
     "block": "-13 OC",
     "hit": "+3 OC",
-    "ch": "+3 OC"
+    "ch": "+3 OC",
+    "properties": [
+      "bound"
+    ]
   },
   {
     "command": "WS+3",
@@ -807,7 +829,10 @@
     "frames": "15~16",
     "block": "-5~-3 OC",
     "hit": "KND",
-    "ch": "KND"
+    "ch": "KND",
+    "properties": [
+      "bound"
+    ]
   },
   {
     "command": "WS+4",
@@ -825,7 +850,10 @@
     "frames": "16",
     "block": "-12",
     "hit": "JG",
-    "ch": "JG"
+    "ch": "JG",
+    "properties": [
+      "tag"
+    ]
   },
   {
     "command": "FC+d\/b or d+1+2",
@@ -897,7 +925,10 @@
     "frames": "28~29 (40~)",
     "block": "-2~-1 OC",
     "hit": "KND",
-    "ch": "KND"
+    "ch": "KND",
+    "properties": [
+      "tag"
+    ]
   },
   {
     "command": "b+1+2, 2",
