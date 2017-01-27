@@ -38,7 +38,9 @@ var dataHandling = (function (window, document, undefined) {
 
   function renderDataList(data) {
     const html = data.map(move => {
-      const splitCommand = move.command.split(',').map(s => s.replace(/[|&/;$%@"<>()+, ]/g, '').replace(/~/, 'tilde'));
+      const splitCommand = move.command.split(',').map(s => s.replace(/\(([^)]+)\)/g, '').replace(/[|&/;$%@"<>()+, ]/g, '').replace(/~/, 'tilde'));
+      const splitDamage = move.damage.split(',').map(Number).filter(Boolean);
+      console.log(splitDamage);
 
       splitCommand.map(function(part, index, arr) {
         return arr[index] = `

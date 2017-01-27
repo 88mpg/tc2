@@ -284,6 +284,42 @@
 		<g><path fill="#FFFFFF" stroke="#000000" stroke-width="5" stroke-miterlimit="10" d="M-37.3,82.4v11.5L-69.6,67l32.3-26.6v11.5h26.6 v30.5H-37.3z"/></g>
 	</symbol>
 
+	<symbol id="buttonb13" viewBox="-73.5 33.3 173.5 66.7">
+		<circle id="one" fill="#000000" stroke="#000000" stroke-width="5" stroke-miterlimit="10" cx="17.7" cy="50.4" r="14"/>
+		<circle id="two" fill="#FFFFFF" stroke="#000000" stroke-width="5" stroke-miterlimit="10" cx="50.3" cy="50.4" r="14"/>
+		<circle id="three" fill="#000000" stroke="#000000" stroke-width="5" stroke-miterlimit="10" cx="17.7" cy="82.9" r="14"/>
+		<circle id="four" fill="#FFFFFF" stroke="#000000" stroke-width="5" stroke-miterlimit="10" cx="50.3" cy="82.9" r="14"/>
+		<circle id="five" fill="#FFFFFF" stroke="#000000" stroke-width="5" stroke-miterlimit="10" cx="82.8" cy="50.4" r="14"/>
+		<g><path fill="#FFFFFF" stroke="#000000" stroke-width="5" stroke-miterlimit="10" d="M-37.3,82.4v11.5L-69.6,67l32.3-26.6v11.5h26.6 v30.5H-37.3z"/></g>
+	</symbol>
+
+	<symbol id="buttonb14" viewBox="-73.5 33.3 173.5 66.7">
+		<circle id="one" fill="#000000" stroke="#000000" stroke-width="5" stroke-miterlimit="10" cx="17.7" cy="50.4" r="14"/>
+		<circle id="two" fill="#FFFFFF" stroke="#000000" stroke-width="5" stroke-miterlimit="10" cx="50.3" cy="50.4" r="14"/>
+		<circle id="three" fill="#FFFFFF" stroke="#000000" stroke-width="5" stroke-miterlimit="10" cx="17.7" cy="82.9" r="14"/>
+		<circle id="four" fill="#000000" stroke="#000000" stroke-width="5" stroke-miterlimit="10" cx="50.3" cy="82.9" r="14"/>
+		<circle id="five" fill="#FFFFFF" stroke="#000000" stroke-width="5" stroke-miterlimit="10" cx="82.8" cy="50.4" r="14"/>
+		<g><path fill="#FFFFFF" stroke="#000000" stroke-width="5" stroke-miterlimit="10" d="M-37.3,82.4v11.5L-69.6,67l32.3-26.6v11.5h26.6 v30.5H-37.3z"/></g>
+	</symbol>
+
+	<symbol id="buttonb23" viewBox="-73.5 33.3 173.5 66.7">
+		<circle id="one" fill="#FFFFFF" stroke="#000000" stroke-width="5" stroke-miterlimit="10" cx="17.7" cy="50.4" r="14"/>
+		<circle id="two" fill="#000000" stroke="#000000" stroke-width="5" stroke-miterlimit="10" cx="50.3" cy="50.4" r="14"/>
+		<circle id="three" fill="#000000" stroke="#000000" stroke-width="5" stroke-miterlimit="10" cx="17.7" cy="82.9" r="14"/>
+		<circle id="four" fill="#FFFFFF" stroke="#000000" stroke-width="5" stroke-miterlimit="10" cx="50.3" cy="82.9" r="14"/>
+		<circle id="five" fill="#FFFFFF" stroke="#000000" stroke-width="5" stroke-miterlimit="10" cx="82.8" cy="50.4" r="14"/>
+		<g><path fill="#FFFFFF" stroke="#000000" stroke-width="5" stroke-miterlimit="10" d="M-37.3,82.4v11.5L-69.6,67l32.3-26.6v11.5h26.6 v30.5H-37.3z"/></g>
+	</symbol>
+
+	<symbol id="buttonb24" viewBox="-73.5 33.3 173.5 66.7">
+		<circle id="one" fill="#FFFFFF" stroke="#000000" stroke-width="5" stroke-miterlimit="10" cx="17.7" cy="50.4" r="14"/>
+		<circle id="two" fill="#000000" stroke="#000000" stroke-width="5" stroke-miterlimit="10" cx="50.3" cy="50.4" r="14"/>
+		<circle id="three" fill="#FFFFFF" stroke="#000000" stroke-width="5" stroke-miterlimit="10" cx="17.7" cy="82.9" r="14"/>
+		<circle id="four" fill="#000000" stroke="#000000" stroke-width="5" stroke-miterlimit="10" cx="50.3" cy="82.9" r="14"/>
+		<circle id="five" fill="#FFFFFF" stroke="#000000" stroke-width="5" stroke-miterlimit="10" cx="82.8" cy="50.4" r="14"/>
+		<g><path fill="#FFFFFF" stroke="#000000" stroke-width="5" stroke-miterlimit="10" d="M-37.3,82.4v11.5L-69.6,67l32.3-26.6v11.5h26.6 v30.5H-37.3z"/></g>
+	</symbol>
+
 	<symbol id="buttonb34" viewBox="-73.5 33.3 173.5 66.7">
 		<circle id="one" fill="#FFFFFF" stroke="#000000" stroke-width="5" stroke-miterlimit="10" cx="17.7" cy="50.4" r="14"/>
 		<circle id="two" fill="#FFFFFF" stroke="#000000" stroke-width="5" stroke-miterlimit="10" cx="50.3" cy="50.4" r="14"/>
