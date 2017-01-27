@@ -24,7 +24,8 @@ var dataHandling = (function (window, document, undefined) {
   }
 
   function countMoves() {
-    return results.childElementCount;
+    // return results.childElementCount;
+    return results.querySelectorAll('.command').length;
   }
 
   function updateCount() {
@@ -37,16 +38,31 @@ var dataHandling = (function (window, document, undefined) {
 
   function renderDataList(data) {
     const html = data.map(move => {
-      const splitCommand = move.command.split(',');
+      const splitCommand = move.command.split(',').map(s => s.replace(/[|&/;$%@"<>()+, ]/g, '').replace(/~/, 'tilde'));
+
+      splitCommand.map(function(part, index, arr) {
+        return arr[index] = `
+          <svg class="button${arr[index]}">
+            <use
+              xmlns:xlink="http://www.w3.org/1999/xlink"
+              xlink:href="assets/images/sprites.buttons.svg#button${arr[index]}">
+            </use>
+          </svg>
+        `;
+      });
+
       return `
         <tr>
-          <td class="command">${splitCommand}</td>
+          <td class="command">${move.command}</td>
           <td class="orientation">${move.orientation}</td>
           <td class="damage">${move.damage}</td>
           <td class="frames">${move.frames}</td>
           <td class="block">${move.block}</td>
           <td class="hit">${move.hit}</td>
           <td class="ch">${move.ch}</td>
+        </tr>
+        <tr>
+          <td colspan="7">${splitCommand.join('')}</td>
         </tr>
       `;
     }).join('');
