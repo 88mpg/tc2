@@ -124,6 +124,7 @@
     "block": "-14",
     "hit": "CS",
     "ch": "CS",
+    "tag": true,
     "properties": [
       "tag"
     ]
@@ -163,6 +164,8 @@
     "block": "-16~-15",
     "hit": "KND",
     "ch": "KND",
+    "tag": true,
+    "bound": true,
     "properties": [
       "tag",
       "bound"
@@ -239,6 +242,7 @@
     "block": "-8~-6",
     "hit": "+2~+4",
     "ch": "+2~+4",
+    "tracks": true,
     "properties": [
       "tracks"
     ]
@@ -251,6 +255,7 @@
     "block": "-6",
     "hit": "KND",
     "ch": "KND",
+    "tracks": true,
     "properties": [
       "tracks"
     ]
@@ -272,6 +277,7 @@
     "block": "-5 OC",
     "hit": "+5 OC",
     "ch": "+5 OC",
+    "bound": true,
     "properties": [
       "bound"
     ]
@@ -284,6 +290,7 @@
     "block": "Throw",
     "hit": "Throw",
     "ch": "Throw",
+    "tag": true,
     "properties": [
       "tag"
     ]
@@ -800,6 +807,7 @@
     "block": "-13 OC",
     "hit": "+3 OC",
     "ch": "+3 OC",
+    "bound": true,
     "properties": [
       "bound"
     ]
@@ -830,6 +838,7 @@
     "block": "-5~-3 OC",
     "hit": "KND",
     "ch": "KND",
+    "bound": true,
     "properties": [
       "bound"
     ]
@@ -851,6 +860,7 @@
     "block": "-12",
     "hit": "JG",
     "ch": "JG",
+    "tag": true,
     "properties": [
       "tag"
     ]
@@ -926,6 +936,7 @@
     "block": "-2~-1 OC",
     "hit": "KND",
     "ch": "KND",
+    "tag": true,
     "properties": [
       "tag"
     ]
