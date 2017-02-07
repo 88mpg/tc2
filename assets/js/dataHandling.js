@@ -36,11 +36,17 @@ var dataHandling = (function (window, document, undefined) {
     searchInput.value = '';
   }
 
+	function sortData(data) {
+		const ordered = data.sort((a, b) => a.damage > b.damage ? 1 : -1);
+
+	}
+
+
+
   function renderDataList(data) {
     const html = data.map(move => {
       const splitCommand = move.command.split(',').map(s => s.replace(/\(([^)]+)\)/g, '').replace(/[|&/;$%@"<>()+, ]/g, '').replace(/~/, 'tilde'));
-      const splitDamage = move.damage.split(',').map(Number).filter(Boolean);
-      console.log(splitDamage);
+      const splitDamage = move.damage.split(',').join(', ');
 
       splitCommand.map(function(part, index, arr) {
         return arr[index] = `
@@ -57,7 +63,7 @@ var dataHandling = (function (window, document, undefined) {
         <tr>
           <td class="command">${move.command}</td>
           <td class="orientation">${move.orientation}</td>
-          <td class="damage">${move.damage}</td>
+          <td class="damage">${splitDamage}</td>
           <td class="frames">${move.frames}</td>
           <td class="block">${move.block}</td>
           <td class="hit">${move.hit}</td>
@@ -139,7 +145,8 @@ function filterByMoveTypes() {
 
 
   return {
-    dataFetch: dataFetch
+    dataFetch: dataFetch,
+		sortData: sortData
   };
 
 })(window, document);
